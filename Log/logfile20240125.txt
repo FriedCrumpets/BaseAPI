@@ -1,0 +1,1176 @@
+2024-01-25 04:40:31.235 +00:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-01-25 04:40:31.493 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2024-01-25 04:40:31.493 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2024-01-25 04:40:31.642 +00:00 [DBG] Entity Framework Core 8.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.1' with options: None
+2024-01-25 04:40:31.659 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2024-01-25 04:40:31.659 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2024-01-25 04:40:31.981 +00:00 [DBG] 'ApplicationDbContext' disposed.
+2024-01-25 04:41:11.969 +00:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-01-25 04:41:12.205 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2024-01-25 04:41:12.205 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2024-01-25 04:41:12.343 +00:00 [DBG] Entity Framework Core 8.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.1' with options: None
+2024-01-25 04:41:12.357 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2024-01-25 04:41:12.357 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2024-01-25 04:41:12.575 +00:00 [DBG] 'ApplicationDbContext' disposed.
+2024-01-25 04:41:30.987 +00:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-01-25 04:41:31.217 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2024-01-25 04:41:31.218 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2024-01-25 04:41:31.373 +00:00 [DBG] Entity Framework Core 8.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.1' with options: None
+2024-01-25 04:41:31.391 +00:00 [DBG] Creating DbConnection.
+2024-01-25 04:41:31.422 +00:00 [DBG] Created DbConnection. (29ms).
+2024-01-25 04:41:31.423 +00:00 [DBG] Migrating using database 'master' on server 'localhost'.
+2024-01-25 04:41:31.428 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:41:31.476 +00:00 [DBG] An error occurred using the connection to database 'master' on server 'localhost'.
+2024-01-25 04:41:31.479 +00:00 [DBG] 'ApplicationDbContext' disposed.
+2024-01-25 04:41:31.480 +00:00 [DBG] Disposing connection to database 'master' on server 'localhost'.
+2024-01-25 04:41:31.482 +00:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-01-25 04:45:18.125 +00:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-01-25 04:45:18.368 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2024-01-25 04:45:18.369 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2024-01-25 04:45:18.510 +00:00 [DBG] Entity Framework Core 8.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.1' with options: None
+2024-01-25 04:45:18.522 +00:00 [DBG] Creating DbConnection.
+2024-01-25 04:45:18.539 +00:00 [DBG] Created DbConnection. (15ms).
+2024-01-25 04:45:18.541 +00:00 [DBG] Migrating using database 'master' on server 'localhost'.
+2024-01-25 04:45:18.545 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.676 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.679 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.682 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (2ms).
+2024-01-25 04:45:18.683 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (5ms).
+2024-01-25 04:45:18.687 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-01-25 04:45:18.705 +00:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-01-25 04:45:18.707 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.711 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (2ms).
+2024-01-25 04:45:18.713 +00:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-01-25 04:45:18.713 +00:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-01-25 04:45:18.713 +00:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-01-25 04:45:18.713 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.714 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.714 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-01-25 04:45:18.721 +00:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-01-25 04:45:18.722 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.722 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.722 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.722 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.722 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.722 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.722 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.722 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-01-25 04:45:18.723 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-01-25 04:45:18.723 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.723 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.773 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.773 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.773 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.773 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.774 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.774 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-01-25 04:45:18.780 +00:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-01-25 04:45:18.780 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.780 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.781 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.781 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.781 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-01-25 04:45:18.781 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-01-25 04:45:18.781 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.781 +00:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-01-25 04:45:18.781 +00:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-01-25 04:45:18.781 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.781 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-01-25 04:45:18.782 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-01-25 04:45:18.782 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.782 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.783 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.783 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.783 +00:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-01-25 04:45:18.783 +00:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-01-25 04:45:18.783 +00:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-01-25 04:45:18.783 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-01-25 04:45:18.785 +00:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-01-25 04:45:18.786 +00:00 [DBG] Closing data reader to 'master' on server 'localhost'.
+2024-01-25 04:45:18.787 +00:00 [DBG] A data reader for 'master' on server 'localhost' is being disposed after spending 0ms reading results.
+2024-01-25 04:45:18.787 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.787 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.793 +00:00 [INF] Applying migration '20240125044031_Init'.
+2024-01-25 04:45:18.816 +00:00 [DBG] Opening connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.817 +00:00 [DBG] Opened connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.817 +00:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-01-25 04:45:18.820 +00:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2024-01-25 04:45:18.821 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.821 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.821 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.821 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2024-01-25 04:45:18.823 +00:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2024-01-25 04:45:18.823 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.823 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.823 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.823 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2024-01-25 04:45:18.824 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2024-01-25 04:45:18.824 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.824 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.824 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.824 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.825 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.825 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.825 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.825 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.825 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.827 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.827 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.827 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.827 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.827 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [ProviderKey] nvarchar(450) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.830 +00:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [ProviderKey] nvarchar(450) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.830 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.830 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.830 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.830 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.833 +00:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.833 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.833 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.833 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.833 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [Name] nvarchar(450) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.834 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [Name] nvarchar(450) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-01-25 04:45:18.834 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.834 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.834 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.834 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2024-01-25 04:45:18.836 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2024-01-25 04:45:18.836 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.836 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.836 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.836 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2024-01-25 04:45:18.837 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2024-01-25 04:45:18.837 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.837 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.837 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.837 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2024-01-25 04:45:18.838 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2024-01-25 04:45:18.838 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.838 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.838 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.838 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2024-01-25 04:45:18.839 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2024-01-25 04:45:18.839 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.839 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.839 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.839 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2024-01-25 04:45:18.840 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2024-01-25 04:45:18.840 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.840 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.840 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.840 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2024-01-25 04:45:18.840 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2024-01-25 04:45:18.840 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.840 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.840 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.840 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2024-01-25 04:45:18.841 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2024-01-25 04:45:18.841 +00:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-01-25 04:45:18.841 +00:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.841 +00:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-01-25 04:45:18.841 +00:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240125044031_Init', N'8.0.1');
+2024-01-25 04:45:18.842 +00:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240125044031_Init', N'8.0.1');
+2024-01-25 04:45:18.843 +00:00 [DBG] Committing transaction.
+2024-01-25 04:45:18.845 +00:00 [DBG] Committed transaction.
+2024-01-25 04:45:18.846 +00:00 [DBG] Disposing transaction.
+2024-01-25 04:45:18.846 +00:00 [DBG] Closing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.846 +00:00 [DBG] Closed connection to database 'master' on server 'localhost' (0ms).
+2024-01-25 04:45:18.847 +00:00 [DBG] 'ApplicationDbContext' disposed.
+2024-01-25 04:45:18.848 +00:00 [DBG] Disposing connection to database 'master' on server 'localhost'.
+2024-01-25 04:45:18.848 +00:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-01-25 04:45:28.429 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 04:45:28.492 +00:00 [DBG] Hosting starting
+2024-01-25 04:45:28.503 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 04:45:28.517 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 04:45:28.535 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 04:45:28.537 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 04:45:28.542 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 04:45:28.544 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 04:45:28.545 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 04:45:28.547 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 04:45:28.550 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 04:45:28.553 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 04:45:28.555 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 04:45:28.555 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 04:45:28.601 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 04:45:28.640 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 04:45:28.640 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 04:45:28.640 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 04:45:28.641 +00:00 [INF] Hosting environment: Development
+2024-01-25 04:45:28.641 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 04:45:28.641 +00:00 [DBG] Hosting started
+2024-01-25 04:45:29.143 +00:00 [DBG] Connection id "0HN0TC1QAT0AR" received FIN.
+2024-01-25 04:45:29.147 +00:00 [DBG] Connection id "0HN0TC1QAT0AR" accepted.
+2024-01-25 04:45:29.148 +00:00 [DBG] Connection id "0HN0TC1QAT0AR" started.
+2024-01-25 04:45:29.155 +00:00 [DBG] Connection id "0HN0TC1QAT0AR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 04:45:29.156 +00:00 [DBG] Connection id "0HN0TC1QAT0AR" disconnecting.
+2024-01-25 04:45:29.158 +00:00 [DBG] Connection id "0HN0TC1QAT0AR" stopped.
+2024-01-25 04:45:29.235 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" accepted.
+2024-01-25 04:45:29.235 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" started.
+2024-01-25 04:45:29.261 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger - null null
+2024-01-25 04:45:29.262 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 04:45:29.515 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" completed keep alive response.
+2024-01-25 04:45:29.517 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger - 301 0 null 255.6722ms
+2024-01-25 04:45:29.522 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 04:45:29.573 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" completed keep alive response.
+2024-01-25 04:45:29.574 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 51.7806ms
+2024-01-25 04:45:29.604 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui.css - null null
+2024-01-25 04:45:29.611 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" accepted.
+2024-01-25 04:45:29.611 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" started.
+2024-01-25 04:45:29.611 +00:00 [DBG] Connection id "0HN0TC1QAT0AU" accepted.
+2024-01-25 04:45:29.611 +00:00 [DBG] Connection id "0HN0TC1QAT0AU" started.
+2024-01-25 04:45:29.611 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-bundle.js - null null
+2024-01-25 04:45:29.611 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-standalone-preset.js - null null
+2024-01-25 04:45:29.619 +00:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-25 04:45:29.620 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" completed keep alive response.
+2024-01-25 04:45:29.621 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui.css - 200 143943 text/css 16.6902ms
+2024-01-25 04:45:29.622 +00:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-25 04:45:29.622 +00:00 [DBG] Connection id "0HN0TC1QAT0AU" completed keep alive response.
+2024-01-25 04:45:29.622 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 11.1207ms
+2024-01-25 04:45:29.628 +00:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-25 04:45:29.629 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" completed keep alive response.
+2024-01-25 04:45:29.629 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 17.4973ms
+2024-01-25 04:45:29.795 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/favicon-32x32.png - null null
+2024-01-25 04:45:29.799 +00:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-01-25 04:45:29.799 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" completed keep alive response.
+2024-01-25 04:45:29.799 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/favicon-32x32.png - 200 628 image/png 4.4401ms
+2024-01-25 04:45:30.152 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 04:45:30.295 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" completed keep alive response.
+2024-01-25 04:45:30.295 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 143.6086ms
+2024-01-25 04:47:40.683 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" disconnecting.
+2024-01-25 04:47:40.683 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" disconnecting.
+2024-01-25 04:47:40.683 +00:00 [DBG] Connection id "0HN0TC1QAT0AU" disconnecting.
+2024-01-25 04:47:40.684 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" stopped.
+2024-01-25 04:47:40.684 +00:00 [DBG] Connection id "0HN0TC1QAT0AU" stopped.
+2024-01-25 04:47:40.684 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" stopped.
+2024-01-25 04:47:40.685 +00:00 [DBG] Connection id "0HN0TC1QAT0AS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 04:47:40.685 +00:00 [DBG] Connection id "0HN0TC1QAT0AU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 04:47:40.685 +00:00 [DBG] Connection id "0HN0TC1QAT0AT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 04:50:16.440 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" accepted.
+2024-01-25 04:50:16.440 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" started.
+2024-01-25 04:50:16.440 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v2/swagger.json - null null
+2024-01-25 04:50:16.446 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" completed keep alive response.
+2024-01-25 04:50:16.446 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v2/swagger.json - 404 0 null 5.6844ms
+2024-01-25 04:50:17.583 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 04:50:17.587 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" completed keep alive response.
+2024-01-25 04:50:17.588 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.4348ms
+2024-01-25 04:51:51.072 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html?urls.primaryName=v1 - null null
+2024-01-25 04:51:51.073 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" completed keep alive response.
+2024-01-25 04:51:51.073 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html?urls.primaryName=v1 - 200 null text/html;charset=utf-8 1.4044ms
+2024-01-25 04:51:51.409 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 04:51:51.413 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" completed keep alive response.
+2024-01-25 04:51:51.413 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.6561ms
+2024-01-25 04:54:02.013 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" disconnecting.
+2024-01-25 04:54:02.013 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" stopped.
+2024-01-25 04:54:02.013 +00:00 [DBG] Connection id "0HN0TC1QAT0AV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 05:49:33.993 +00:00 [INF] Application is shutting down...
+2024-01-25 05:49:33.994 +00:00 [DBG] Hosting stopping
+2024-01-25 05:49:34.004 +00:00 [DBG] Hosting stopped
+2024-01-25 09:22:08.389 +00:00 [DBG] Hosting starting
+2024-01-25 09:22:08.443 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 09:22:08.456 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 09:22:08.472 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 09:22:08.488 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 09:22:08.490 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 09:22:08.494 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 09:22:08.496 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:22:08.498 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 09:22:08.500 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:22:08.504 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 09:22:08.507 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 09:22:08.509 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 09:22:08.510 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 09:22:08.528 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:22:08.597 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:22:08.597 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:22:08.597 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:22:08.597 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:22:08.597 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:22:08.597 +00:00 [DBG] Hosting started
+2024-01-25 09:22:08.980 +00:00 [DBG] Connection id "0HN0TGSDF9I47" received FIN.
+2024-01-25 09:22:08.984 +00:00 [DBG] Connection id "0HN0TGSDF9I47" accepted.
+2024-01-25 09:22:08.984 +00:00 [DBG] Connection id "0HN0TGSDF9I47" started.
+2024-01-25 09:22:08.991 +00:00 [DBG] Connection id "0HN0TGSDF9I47" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:22:08.993 +00:00 [DBG] Connection id "0HN0TGSDF9I47" disconnecting.
+2024-01-25 09:22:08.996 +00:00 [DBG] Connection id "0HN0TGSDF9I47" stopped.
+2024-01-25 09:22:09.096 +00:00 [DBG] Connection id "0HN0TGSDF9I48" accepted.
+2024-01-25 09:22:09.096 +00:00 [DBG] Connection id "0HN0TGSDF9I48" started.
+2024-01-25 09:22:09.129 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger - null null
+2024-01-25 09:22:09.131 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:22:09.415 +00:00 [DBG] Connection id "0HN0TGSDF9I48" completed keep alive response.
+2024-01-25 09:22:09.416 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger - 301 0 null 288.3743ms
+2024-01-25 09:22:09.423 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:22:09.478 +00:00 [DBG] Connection id "0HN0TGSDF9I48" completed keep alive response.
+2024-01-25 09:22:09.478 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 55.2474ms
+2024-01-25 09:22:09.527 +00:00 [DBG] Connection id "0HN0TGSDF9I49" accepted.
+2024-01-25 09:22:09.527 +00:00 [DBG] Connection id "0HN0TGSDF9I49" started.
+2024-01-25 09:22:09.527 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-standalone-preset.js - null null
+2024-01-25 09:22:09.527 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-bundle.js - null null
+2024-01-25 09:22:09.547 +00:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-25 09:22:09.549 +00:00 [DBG] Connection id "0HN0TGSDF9I49" completed keep alive response.
+2024-01-25 09:22:09.549 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 22.1807ms
+2024-01-25 09:22:09.555 +00:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-25 09:22:09.555 +00:00 [DBG] Connection id "0HN0TGSDF9I48" completed keep alive response.
+2024-01-25 09:22:09.555 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 28.2172ms
+2024-01-25 09:22:10.826 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:22:10.877 +00:00 [DBG] Connection id "0HN0TGSDF9I48" completed keep alive response.
+2024-01-25 09:22:10.878 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.9645ms
+2024-01-25 09:22:59.594 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v2/swagger.json - null null
+2024-01-25 09:22:59.598 +00:00 [DBG] Connection id "0HN0TGSDF9I48" completed keep alive response.
+2024-01-25 09:22:59.599 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v2/swagger.json - 404 0 null 4.3775ms
+2024-01-25 09:23:01.615 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:23:01.615 +00:00 [DBG] Connection id "0HN0TGSDF9I48" completed keep alive response.
+2024-01-25 09:23:01.615 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 0.6284ms
+2024-01-25 09:24:20.823 +00:00 [DBG] Connection id "0HN0TGSDF9I49" disconnecting.
+2024-01-25 09:24:20.824 +00:00 [DBG] Connection id "0HN0TGSDF9I49" stopped.
+2024-01-25 09:24:20.825 +00:00 [DBG] Connection id "0HN0TGSDF9I49" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:24:35.228 +00:00 [INF] Application is shutting down...
+2024-01-25 09:24:35.228 +00:00 [DBG] Hosting stopping
+2024-01-25 09:24:35.234 +00:00 [DBG] Connection id "0HN0TGSDF9I48" disconnecting.
+2024-01-25 09:24:35.234 +00:00 [DBG] Connection id "0HN0TGSDF9I48" stopped.
+2024-01-25 09:24:35.234 +00:00 [DBG] Connection id "0HN0TGSDF9I48" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:24:35.239 +00:00 [DBG] Hosting stopped
+2024-01-25 09:24:39.900 +00:00 [DBG] Hosting starting
+2024-01-25 09:24:39.980 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 09:24:39.992 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 09:24:39.998 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 09:24:40.004 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 09:24:40.006 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 09:24:40.011 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 09:24:40.015 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:24:40.017 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 09:24:40.019 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:24:40.021 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 09:24:40.025 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 09:24:40.027 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 09:24:40.027 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 09:24:40.040 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:24:40.076 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:24:40.077 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:24:40.077 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:24:40.077 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:24:40.077 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:24:40.077 +00:00 [DBG] Hosting started
+2024-01-25 09:24:40.511 +00:00 [DBG] Connection id "0HN0TGTQKD1I0" received FIN.
+2024-01-25 09:24:40.517 +00:00 [DBG] Connection id "0HN0TGTQKD1I0" accepted.
+2024-01-25 09:24:40.518 +00:00 [DBG] Connection id "0HN0TGTQKD1I0" started.
+2024-01-25 09:24:40.522 +00:00 [DBG] Connection id "0HN0TGTQKD1I0" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:24:40.524 +00:00 [DBG] Connection id "0HN0TGTQKD1I0" disconnecting.
+2024-01-25 09:24:40.526 +00:00 [DBG] Connection id "0HN0TGTQKD1I0" stopped.
+2024-01-25 09:24:40.642 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" accepted.
+2024-01-25 09:24:40.642 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" started.
+2024-01-25 09:24:40.662 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:24:40.663 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:24:40.968 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" completed keep alive response.
+2024-01-25 09:24:40.969 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 308.1744ms
+2024-01-25 09:24:41.489 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:24:41.619 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:24:41.637 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" completed keep alive response.
+2024-01-25 09:24:41.637 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 148.0169ms
+2024-01-25 09:26:52.217 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" disconnecting.
+2024-01-25 09:26:52.218 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" stopped.
+2024-01-25 09:26:52.218 +00:00 [DBG] Connection id "0HN0TGTQKD1I1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:28:59.940 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" accepted.
+2024-01-25 09:28:59.940 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" started.
+2024-01-25 09:28:59.941 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:28:59.942 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" completed keep alive response.
+2024-01-25 09:28:59.942 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.3322ms
+2024-01-25 09:29:00.567 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:29:00.570 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:29:00.571 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" completed keep alive response.
+2024-01-25 09:29:00.571 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 4.2891ms
+2024-01-25 09:29:40.059 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:29:40.059 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" completed keep alive response.
+2024-01-25 09:29:40.059 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.5203ms
+2024-01-25 09:29:40.617 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:29:40.620 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:29:40.620 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" completed keep alive response.
+2024-01-25 09:29:40.620 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.8521ms
+2024-01-25 09:29:43.345 +00:00 [INF] Application is shutting down...
+2024-01-25 09:29:43.346 +00:00 [DBG] Hosting stopping
+2024-01-25 09:29:43.350 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" disconnecting.
+2024-01-25 09:29:43.350 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" stopped.
+2024-01-25 09:29:43.350 +00:00 [DBG] Connection id "0HN0TGTQKD1I2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:29:43.355 +00:00 [DBG] Hosting stopped
+2024-01-25 09:29:47.022 +00:00 [DBG] Hosting starting
+2024-01-25 09:29:47.074 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 09:29:47.086 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 09:29:47.090 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 09:29:47.094 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 09:29:47.097 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 09:29:47.103 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 09:29:47.105 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:29:47.106 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 09:29:47.107 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:29:47.110 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 09:29:47.114 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 09:29:47.118 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 09:29:47.119 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 09:29:47.128 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:29:47.169 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:29:47.170 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:29:47.170 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:29:47.170 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:29:47.170 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:29:47.170 +00:00 [DBG] Hosting started
+2024-01-25 09:29:47.289 +00:00 [DBG] Connection id "0HN0TH0M223MK" received FIN.
+2024-01-25 09:29:47.292 +00:00 [DBG] Connection id "0HN0TH0M223MK" accepted.
+2024-01-25 09:29:47.292 +00:00 [DBG] Connection id "0HN0TH0M223MK" started.
+2024-01-25 09:29:47.296 +00:00 [DBG] Connection id "0HN0TH0M223MK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:29:47.299 +00:00 [DBG] Connection id "0HN0TH0M223MK" disconnecting.
+2024-01-25 09:29:47.301 +00:00 [DBG] Connection id "0HN0TH0M223MK" stopped.
+2024-01-25 09:29:47.388 +00:00 [DBG] Connection id "0HN0TH0M223ML" accepted.
+2024-01-25 09:29:47.388 +00:00 [DBG] Connection id "0HN0TH0M223ML" started.
+2024-01-25 09:29:47.404 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:29:47.405 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:29:47.534 +00:00 [DBG] Connection id "0HN0TH0M223ML" completed keep alive response.
+2024-01-25 09:29:47.536 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 132.3641ms
+2024-01-25 09:29:48.041 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:29:48.149 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:29:48.160 +00:00 [DBG] Connection id "0HN0TH0M223ML" completed keep alive response.
+2024-01-25 09:29:48.161 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 119.1269ms
+2024-01-25 09:31:26.567 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html?urls.primaryName=v1 - null null
+2024-01-25 09:31:26.567 +00:00 [DBG] Connection id "0HN0TH0M223ML" completed keep alive response.
+2024-01-25 09:31:26.568 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html?urls.primaryName=v1 - 200 null text/html;charset=utf-8 1.0925ms
+2024-01-25 09:31:26.986 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:31:26.988 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:31:26.989 +00:00 [DBG] Connection id "0HN0TH0M223ML" completed keep alive response.
+2024-01-25 09:31:26.989 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.9831ms
+2024-01-25 09:31:32.184 +00:00 [INF] Application is shutting down...
+2024-01-25 09:31:32.185 +00:00 [DBG] Hosting stopping
+2024-01-25 09:31:32.193 +00:00 [DBG] Connection id "0HN0TH0M223ML" disconnecting.
+2024-01-25 09:31:32.194 +00:00 [DBG] Connection id "0HN0TH0M223ML" stopped.
+2024-01-25 09:31:32.194 +00:00 [DBG] Connection id "0HN0TH0M223ML" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:31:32.198 +00:00 [DBG] Hosting stopped
+2024-01-25 09:31:37.669 +00:00 [DBG] Hosting starting
+2024-01-25 09:31:37.729 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:31:37.782 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:31:37.782 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:31:37.782 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:31:37.782 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:31:37.782 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:31:37.782 +00:00 [DBG] Hosting started
+2024-01-25 09:31:38.172 +00:00 [DBG] Connection id "0HN0TH1N3H2Q5" received FIN.
+2024-01-25 09:31:38.175 +00:00 [DBG] Connection id "0HN0TH1N3H2Q5" accepted.
+2024-01-25 09:31:38.176 +00:00 [DBG] Connection id "0HN0TH1N3H2Q5" started.
+2024-01-25 09:31:38.182 +00:00 [DBG] Connection id "0HN0TH1N3H2Q5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:31:38.183 +00:00 [DBG] Connection id "0HN0TH1N3H2Q5" disconnecting.
+2024-01-25 09:31:38.186 +00:00 [DBG] Connection id "0HN0TH1N3H2Q5" stopped.
+2024-01-25 09:31:38.264 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" accepted.
+2024-01-25 09:31:38.265 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" started.
+2024-01-25 09:31:38.286 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:31:38.289 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:31:38.424 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" completed keep alive response.
+2024-01-25 09:31:38.425 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 139.2784ms
+2024-01-25 09:31:38.835 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:31:38.934 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:31:38.942 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" completed keep alive response.
+2024-01-25 09:31:38.942 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 107.5752ms
+2024-01-25 09:31:53.954 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:31:53.955 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:31:53.975 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" completed keep alive response.
+2024-01-25 09:31:53.975 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/html; charset=utf-8 21.6628ms
+2024-01-25 09:31:54.276 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/favicon.ico - null null
+2024-01-25 09:31:54.276 +00:00 [DBG] The request path  does not match the path filter
+2024-01-25 09:31:54.277 +00:00 [WRN] Failed to determine the https port for redirect.
+2024-01-25 09:31:54.277 +00:00 [DBG] The request path /favicon.ico does not match an existing file
+2024-01-25 09:31:54.285 +00:00 [DBG] No candidates found for the request path '/favicon.ico'
+2024-01-25 09:31:54.286 +00:00 [DBG] Request did not match any endpoints
+2024-01-25 09:31:54.289 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" completed keep alive response.
+2024-01-25 09:31:54.289 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/favicon.ico - 404 0 null 13.4862ms
+2024-01-25 09:31:54.290 +00:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5046/favicon.ico, Response status code: 404
+2024-01-25 09:34:05.281 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" disconnecting.
+2024-01-25 09:34:05.282 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" stopped.
+2024-01-25 09:34:05.282 +00:00 [DBG] Connection id "0HN0TH1N3H2Q6" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:34:38.732 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" accepted.
+2024-01-25 09:34:38.732 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" started.
+2024-01-25 09:34:38.732 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:34:38.733 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:34:38.734 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.4519ms
+2024-01-25 09:34:39.273 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:34:39.275 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:34:39.275 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:34:39.275 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.1866ms
+2024-01-25 09:35:24.937 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:35:24.938 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:35:24.938 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.6756ms
+2024-01-25 09:35:25.568 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:35:25.571 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:35:25.572 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:35:25.572 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 4.0569ms
+2024-01-25 09:36:43.375 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:36:43.375 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:36:43.375 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.4599ms
+2024-01-25 09:36:43.931 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:36:43.933 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:36:43.934 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:36:43.934 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.3724ms
+2024-01-25 09:37:08.332 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:37:08.333 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:37:08.333 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.2244ms
+2024-01-25 09:37:08.896 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:37:08.897 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:37:08.898 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:37:08.898 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 1.7264ms
+2024-01-25 09:37:54.972 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:37:54.972 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:37:54.972 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.3795ms
+2024-01-25 09:37:55.478 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:37:55.480 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:37:55.481 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" completed keep alive response.
+2024-01-25 09:37:55.481 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 3.3665ms
+2024-01-25 09:37:57.746 +00:00 [INF] Application is shutting down...
+2024-01-25 09:37:57.747 +00:00 [DBG] Hosting stopping
+2024-01-25 09:37:57.753 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" disconnecting.
+2024-01-25 09:37:57.753 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" stopped.
+2024-01-25 09:37:57.754 +00:00 [DBG] Connection id "0HN0TH1N3H2Q7" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:37:57.757 +00:00 [DBG] Hosting stopped
+2024-01-25 09:38:03.240 +00:00 [DBG] Hosting starting
+2024-01-25 09:38:03.286 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:38:03.318 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:38:03.319 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:38:03.319 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:38:03.319 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:38:03.319 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:38:03.319 +00:00 [DBG] Hosting started
+2024-01-25 09:38:03.676 +00:00 [DBG] Connection id "0HN0TH59VVLC1" received FIN.
+2024-01-25 09:38:03.679 +00:00 [DBG] Connection id "0HN0TH59VVLC1" accepted.
+2024-01-25 09:38:03.680 +00:00 [DBG] Connection id "0HN0TH59VVLC1" started.
+2024-01-25 09:38:03.684 +00:00 [DBG] Connection id "0HN0TH59VVLC1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:38:03.686 +00:00 [DBG] Connection id "0HN0TH59VVLC1" disconnecting.
+2024-01-25 09:38:03.687 +00:00 [DBG] Connection id "0HN0TH59VVLC1" stopped.
+2024-01-25 09:38:03.787 +00:00 [DBG] Connection id "0HN0TH59VVLC2" accepted.
+2024-01-25 09:38:03.787 +00:00 [DBG] Connection id "0HN0TH59VVLC2" started.
+2024-01-25 09:38:03.804 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:38:03.807 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:38:03.919 +00:00 [DBG] Connection id "0HN0TH59VVLC2" completed keep alive response.
+2024-01-25 09:38:03.920 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 117.3612ms
+2024-01-25 09:38:04.369 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:38:04.495 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:38:04.506 +00:00 [DBG] Connection id "0HN0TH59VVLC2" completed keep alive response.
+2024-01-25 09:38:04.506 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 137.3357ms
+2024-01-25 09:39:21.076 +00:00 [INF] Application is shutting down...
+2024-01-25 09:39:21.077 +00:00 [DBG] Hosting stopping
+2024-01-25 09:39:21.082 +00:00 [DBG] Connection id "0HN0TH59VVLC2" disconnecting.
+2024-01-25 09:39:21.083 +00:00 [DBG] Connection id "0HN0TH59VVLC2" stopped.
+2024-01-25 09:39:21.083 +00:00 [DBG] Connection id "0HN0TH59VVLC2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:39:21.087 +00:00 [DBG] Hosting stopped
+2024-01-25 09:39:26.346 +00:00 [DBG] Hosting starting
+2024-01-25 09:39:26.397 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:39:26.433 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:39:26.433 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:39:26.434 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:39:26.434 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:39:26.434 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:39:26.434 +00:00 [DBG] Hosting started
+2024-01-25 09:39:26.759 +00:00 [DBG] Connection id "0HN0TH62OAEO9" received FIN.
+2024-01-25 09:39:26.762 +00:00 [DBG] Connection id "0HN0TH62OAEO9" accepted.
+2024-01-25 09:39:26.762 +00:00 [DBG] Connection id "0HN0TH62OAEO9" started.
+2024-01-25 09:39:26.767 +00:00 [DBG] Connection id "0HN0TH62OAEO9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:39:26.768 +00:00 [DBG] Connection id "0HN0TH62OAEO9" disconnecting.
+2024-01-25 09:39:26.770 +00:00 [DBG] Connection id "0HN0TH62OAEO9" stopped.
+2024-01-25 09:39:26.861 +00:00 [DBG] Connection id "0HN0TH62OAEOA" accepted.
+2024-01-25 09:39:26.861 +00:00 [DBG] Connection id "0HN0TH62OAEOA" started.
+2024-01-25 09:39:26.876 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:39:26.878 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:39:26.989 +00:00 [DBG] Connection id "0HN0TH62OAEOA" completed keep alive response.
+2024-01-25 09:39:26.990 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 114.8488ms
+2024-01-25 09:39:27.399 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:39:27.495 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:39:27.505 +00:00 [DBG] Connection id "0HN0TH62OAEOA" completed keep alive response.
+2024-01-25 09:39:27.505 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 106.5083ms
+2024-01-25 09:39:44.085 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:39:44.087 +00:00 [DBG] Connection id "0HN0TH62OAEOA" completed keep alive response.
+2024-01-25 09:39:44.087 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.7073ms
+2024-01-25 09:39:44.267 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:39:44.268 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:39:44.269 +00:00 [DBG] Connection id "0HN0TH62OAEOA" completed keep alive response.
+2024-01-25 09:39:44.269 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.1238ms
+2024-01-25 09:39:47.130 +00:00 [INF] Application is shutting down...
+2024-01-25 09:39:47.130 +00:00 [DBG] Hosting stopping
+2024-01-25 09:39:47.135 +00:00 [DBG] Connection id "0HN0TH62OAEOA" disconnecting.
+2024-01-25 09:39:47.136 +00:00 [DBG] Connection id "0HN0TH62OAEOA" stopped.
+2024-01-25 09:39:47.136 +00:00 [DBG] Connection id "0HN0TH62OAEOA" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:39:47.139 +00:00 [DBG] Hosting stopped
+2024-01-25 09:39:52.636 +00:00 [DBG] Hosting starting
+2024-01-25 09:39:52.693 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:39:52.737 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:39:52.737 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:39:52.737 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:39:52.737 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:39:52.737 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:39:52.737 +00:00 [DBG] Hosting started
+2024-01-25 09:39:53.012 +00:00 [DBG] Connection id "0HN0TH6AIM90I" received FIN.
+2024-01-25 09:39:53.015 +00:00 [DBG] Connection id "0HN0TH6AIM90I" accepted.
+2024-01-25 09:39:53.016 +00:00 [DBG] Connection id "0HN0TH6AIM90I" started.
+2024-01-25 09:39:53.021 +00:00 [DBG] Connection id "0HN0TH6AIM90I" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:39:53.024 +00:00 [DBG] Connection id "0HN0TH6AIM90I" disconnecting.
+2024-01-25 09:39:53.028 +00:00 [DBG] Connection id "0HN0TH6AIM90I" stopped.
+2024-01-25 09:39:53.126 +00:00 [DBG] Connection id "0HN0TH6AIM90J" accepted.
+2024-01-25 09:39:53.126 +00:00 [DBG] Connection id "0HN0TH6AIM90J" started.
+2024-01-25 09:39:53.149 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:39:53.151 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:39:53.270 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:39:53.271 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 122.9484ms
+2024-01-25 09:39:53.714 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:39:53.781 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:39:53.790 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:39:53.790 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 75.7982ms
+2024-01-25 09:41:11.088 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:41:11.090 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:41:11.090 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.3635ms
+2024-01-25 09:41:11.308 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:41:11.308 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:41:11.309 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:41:11.309 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 1.3271ms
+2024-01-25 09:42:30.948 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:42:30.948 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:42:30.949 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.5615ms
+2024-01-25 09:42:31.156 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:42:31.157 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:42:31.158 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:42:31.158 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.121ms
+2024-01-25 09:43:35.313 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:43:35.314 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:43:35.314 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.5149ms
+2024-01-25 09:43:35.525 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:43:35.525 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:43:35.526 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:43:35.526 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 1.081ms
+2024-01-25 09:44:24.520 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:44:24.520 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:44:24.520 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.4495ms
+2024-01-25 09:44:24.741 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:44:24.741 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:44:24.743 +00:00 [DBG] Connection id "0HN0TH6AIM90J" completed keep alive response.
+2024-01-25 09:44:24.743 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.1366ms
+2024-01-25 09:44:30.155 +00:00 [INF] Application is shutting down...
+2024-01-25 09:44:30.156 +00:00 [DBG] Hosting stopping
+2024-01-25 09:44:30.162 +00:00 [DBG] Connection id "0HN0TH6AIM90J" disconnecting.
+2024-01-25 09:44:30.162 +00:00 [DBG] Connection id "0HN0TH6AIM90J" stopped.
+2024-01-25 09:44:30.163 +00:00 [DBG] Connection id "0HN0TH6AIM90J" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:44:30.166 +00:00 [DBG] Hosting stopped
+2024-01-25 09:45:29.801 +00:00 [DBG] Hosting starting
+2024-01-25 09:45:29.844 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 09:45:29.856 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 09:45:29.860 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 09:45:29.863 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 09:45:29.864 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 09:45:29.868 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 09:45:29.870 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:45:29.871 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 09:45:29.873 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:45:29.876 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 09:45:29.882 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 09:45:29.886 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 09:45:29.886 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 09:45:29.895 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:45:29.934 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:45:29.934 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:45:29.934 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:45:29.934 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:45:29.934 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:45:29.934 +00:00 [DBG] Hosting started
+2024-01-25 09:45:30.240 +00:00 [DBG] Connection id "0HN0TH9F2O59G" received FIN.
+2024-01-25 09:45:30.243 +00:00 [DBG] Connection id "0HN0TH9F2O59G" accepted.
+2024-01-25 09:45:30.244 +00:00 [DBG] Connection id "0HN0TH9F2O59G" started.
+2024-01-25 09:45:30.248 +00:00 [DBG] Connection id "0HN0TH9F2O59G" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:45:30.251 +00:00 [DBG] Connection id "0HN0TH9F2O59G" disconnecting.
+2024-01-25 09:45:30.254 +00:00 [DBG] Connection id "0HN0TH9F2O59G" stopped.
+2024-01-25 09:45:30.344 +00:00 [DBG] Connection id "0HN0TH9F2O59H" accepted.
+2024-01-25 09:45:30.344 +00:00 [DBG] Connection id "0HN0TH9F2O59H" started.
+2024-01-25 09:45:30.362 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:45:30.363 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:45:30.476 +00:00 [DBG] Connection id "0HN0TH9F2O59H" completed keep alive response.
+2024-01-25 09:45:30.478 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 116.8371ms
+2024-01-25 09:45:30.946 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:45:31.056 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:45:31.067 +00:00 [DBG] Connection id "0HN0TH9F2O59H" completed keep alive response.
+2024-01-25 09:45:31.067 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 120.5063ms
+2024-01-25 09:45:34.307 +00:00 [INF] Application is shutting down...
+2024-01-25 09:45:34.307 +00:00 [DBG] Hosting stopping
+2024-01-25 09:45:34.312 +00:00 [DBG] Connection id "0HN0TH9F2O59H" disconnecting.
+2024-01-25 09:45:34.312 +00:00 [DBG] Connection id "0HN0TH9F2O59H" stopped.
+2024-01-25 09:45:34.312 +00:00 [DBG] Connection id "0HN0TH9F2O59H" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:45:34.316 +00:00 [DBG] Hosting stopped
+2024-01-25 09:48:12.743 +00:00 [DBG] Hosting starting
+2024-01-25 09:48:12.786 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 09:48:12.796 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 09:48:12.803 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 09:48:12.809 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 09:48:12.812 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 09:48:12.816 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 09:48:12.819 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:48:12.821 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 09:48:12.824 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:48:12.827 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 09:48:12.830 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 09:48:12.832 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 09:48:12.832 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 09:48:12.840 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:48:12.874 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:48:12.874 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:48:12.874 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:48:12.874 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:48:12.874 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:48:12.874 +00:00 [DBG] Hosting started
+2024-01-25 09:48:13.121 +00:00 [DBG] Connection id "0HN0THAVK39D4" received FIN.
+2024-01-25 09:48:13.124 +00:00 [DBG] Connection id "0HN0THAVK39D4" accepted.
+2024-01-25 09:48:13.124 +00:00 [DBG] Connection id "0HN0THAVK39D4" started.
+2024-01-25 09:48:13.129 +00:00 [DBG] Connection id "0HN0THAVK39D4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:48:13.131 +00:00 [DBG] Connection id "0HN0THAVK39D4" disconnecting.
+2024-01-25 09:48:13.133 +00:00 [DBG] Connection id "0HN0THAVK39D4" stopped.
+2024-01-25 09:48:13.212 +00:00 [DBG] Connection id "0HN0THAVK39D5" accepted.
+2024-01-25 09:48:13.212 +00:00 [DBG] Connection id "0HN0THAVK39D5" started.
+2024-01-25 09:48:13.225 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:48:13.226 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:48:13.371 +00:00 [DBG] Connection id "0HN0THAVK39D5" completed keep alive response.
+2024-01-25 09:48:13.372 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 147.9185ms
+2024-01-25 09:48:13.787 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:48:13.898 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:48:13.907 +00:00 [DBG] Connection id "0HN0THAVK39D5" completed keep alive response.
+2024-01-25 09:48:13.907 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 119.8672ms
+2024-01-25 09:49:01.362 +00:00 [INF] Application is shutting down...
+2024-01-25 09:49:01.363 +00:00 [DBG] Hosting stopping
+2024-01-25 09:49:01.369 +00:00 [DBG] Connection id "0HN0THAVK39D5" disconnecting.
+2024-01-25 09:49:01.370 +00:00 [DBG] Connection id "0HN0THAVK39D5" stopped.
+2024-01-25 09:49:01.370 +00:00 [DBG] Connection id "0HN0THAVK39D5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:49:01.374 +00:00 [DBG] Hosting stopped
+2024-01-25 09:54:18.192 +00:00 [DBG] Hosting starting
+2024-01-25 09:54:18.237 +00:00 [INF] User profile is available. Using 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-25 09:54:18.249 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-125da1d6-5afc-4d21-8d4e-d0bce52e4b47.xml'.
+2024-01-25 09:54:18.253 +00:00 [DBG] Reading data from file 'C:\Users\jamie\AppData\Local\ASP.NET\DataProtection-Keys\key-9c868a5a-f102-4801-856e-dda8aa56d220.xml'.
+2024-01-25 09:54:18.258 +00:00 [DBG] Found key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47}.
+2024-01-25 09:54:18.261 +00:00 [DBG] Found key {9c868a5a-f102-4801-856e-dda8aa56d220}.
+2024-01-25 09:54:18.265 +00:00 [DBG] Considering key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} with expiration date 2024-02-20 04:42:18Z as default key.
+2024-01-25 09:54:18.267 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:54:18.269 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-25 09:54:18.272 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-25 09:54:18.276 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-25 09:54:18.279 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-25 09:54:18.282 +00:00 [DBG] Using key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} as the default key.
+2024-01-25 09:54:18.282 +00:00 [DBG] Key ring with default key {125da1d6-5afc-4d21-8d4e-d0bce52e4b47} was loaded during application startup.
+2024-01-25 09:54:18.289 +00:00 [WRN] The WebRootPath was not found: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API\wwwroot. Static files may be unavailable.
+2024-01-25 09:54:18.332 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-25 09:54:18.332 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-25 09:54:18.332 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-25 09:54:18.332 +00:00 [INF] Hosting environment: Development
+2024-01-25 09:54:18.332 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-25 09:54:18.332 +00:00 [DBG] Hosting started
+2024-01-25 09:54:18.689 +00:00 [DBG] Connection id "0HN0THECIDUAL" received FIN.
+2024-01-25 09:54:18.692 +00:00 [DBG] Connection id "0HN0THECIDUAL" accepted.
+2024-01-25 09:54:18.692 +00:00 [DBG] Connection id "0HN0THECIDUAL" started.
+2024-01-25 09:54:18.696 +00:00 [DBG] Connection id "0HN0THECIDUAL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 09:54:18.697 +00:00 [DBG] Connection id "0HN0THECIDUAL" disconnecting.
+2024-01-25 09:54:18.699 +00:00 [DBG] Connection id "0HN0THECIDUAL" stopped.
+2024-01-25 09:54:18.767 +00:00 [DBG] Connection id "0HN0THECIDUAM" accepted.
+2024-01-25 09:54:18.767 +00:00 [DBG] Connection id "0HN0THECIDUAM" started.
+2024-01-25 09:54:18.784 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:54:18.785 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-25 09:54:18.894 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:54:18.895 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 111.6532ms
+2024-01-25 09:54:19.302 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:54:19.399 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:54:19.407 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:54:19.408 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 105.5189ms
+2024-01-25 09:54:41.065 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:54:41.066 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:54:41.066 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.0763ms
+2024-01-25 09:54:41.524 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:54:41.526 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:54:41.527 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:54:41.527 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.9194ms
+2024-01-25 09:55:41.110 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:55:41.111 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:55:41.111 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.1716ms
+2024-01-25 09:55:41.612 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:55:41.614 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:55:41.614 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:55:41.615 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.2808ms
+2024-01-25 09:55:46.657 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:55:46.658 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:55:46.658 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 1.2296ms
+2024-01-25 09:55:47.100 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:55:47.102 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:55:47.103 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:55:47.103 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.2698ms
+2024-01-25 09:55:54.739 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-25 09:55:54.739 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:55:54.739 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 0.4552ms
+2024-01-25 09:55:55.165 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-25 09:55:55.167 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - RESTful_web_API_Course.Controllers.AuthController.ExecuteAsync (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-25 09:55:55.167 +00:00 [DBG] Connection id "0HN0THECIDUAM" completed keep alive response.
+2024-01-25 09:55:55.167 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 2.8107ms
+2024-01-25 09:58:05.382 +00:00 [DBG] Connection id "0HN0THECIDUAM" disconnecting.
+2024-01-25 09:58:05.383 +00:00 [DBG] Connection id "0HN0THECIDUAM" stopped.
+2024-01-25 09:58:05.383 +00:00 [DBG] Connection id "0HN0THECIDUAM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-25 10:17:35.806 +00:00 [INF] Application is shutting down...
+2024-01-25 10:17:35.806 +00:00 [DBG] Hosting stopping
+2024-01-25 10:17:35.812 +00:00 [DBG] Hosting stopped

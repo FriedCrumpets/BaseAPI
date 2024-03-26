@@ -1,0 +1,45 @@
+Microsoft AI bot
+
+Message: 
+
+Lets theorize for a moment. 
+If I am creating an application with multiple organisations where organisations can be added or removed 
+from the application and each organisation can have multiple roles, should I use identity to define both 
+organisations and roles within them. Company A admin would not be able to access Company B admin assets 
+in this scenario.
+
+Response: 
+
+This is an interesting question, and there is no definitive answer to it. 
+However, based on the web search results, I can provide some possible options and considerations for 
+implementing a multitenant identity solution with ASP.NET Identity.
+
+One option is to use a single identity database for all tenants, and extend the default identity models 
+(such as ApplicationUser and IdentityRole) with a TenantId property. 
+This way, you can associate each user and role with a specific tenant, and filter them accordingly in your 
+application logic. For example, you can override the UserManager and RoleManager classes to add 
+tenant-specific methods, such as FindByTenantIdAsync or AddToRoleByTenantIdAsync12. 
+You can also use the SaasKit library to resolve the current tenant from the request context3.
+https://stackoverflow.com/questions/48133171/how-to-use-asp-net-core-identity-in-multi-tenant-environment
+https://stackoverflow.com/questions/21246591/asp-net-multi-tenant-application-with-tenant-specific-roles
+https://stackoverflow.com/questions/59607595/how-to-add-user-to-role-using-asp-net-core-identity-framework-services-in-multi
+
+Another option is to use a separate identity database for each tenant, and dynamically switch the 
+connection string based on the current tenant. This way, you can isolate the identity data for each tenant, 
+and avoid the need to filter them by TenantId. However, this option may require more configuration and 
+management, such as creating and updating the databases for each tenant, and handling the tenant discovery 
+and resolution.
+https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/identity
+
+A third option is to use an external identity provider (IdP), such as Microsoft Entra ID, Auth0, or Okta, 
+to handle the authentication and authorization for your application. This way, you can delegate the identity 
+management to a third-party service, and leverage their features and capabilities, such as federation, 
+single sign-on, multi-factor authentication, and so on. However, this option may also introduce some 
+challenges, such as integrating with different IdPs for each tenant, and mapping the external identities to 
+your application roles and permissions4.
+https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/identity
+
+Therefore, the choice of identity solution for your multitenant application may depend on several factors, 
+such as the number and size of tenants, the security and compliance requirements, the user experience and 
+expectations, and the cost and complexity of implementation. You may need to evaluate the pros and cons of 
+each option, and choose the one that best suits your scenario.

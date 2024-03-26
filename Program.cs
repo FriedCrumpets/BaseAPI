@@ -1,41 +1,53 @@
+using Asp.Versioning;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using RESTful_web_API_Course.Core;
+using RESTful_web_API_Course.Core.Config;
+using RESTful_web_API_Course.Core.Middleware;
+using RESTful_web_API_Course.Core.Models;
+using Serilog;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Debug()
+    .WriteTo.File("Log/logfile.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+builder.Services.AddDbContext<ApplicationDbContext>(options => {
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultSQLConnection"));
+});
+
+builder.Services.AddControllers(options => {
+    options.InputFormatters.Insert(0, JsonPatchConfig.GetJsonPatchInputFormatter());
+    options.CacheProfiles.Add("Default30", new CacheProfile { Duration = 30 }); // default cache profile for 30 seconds
+});
+
+builder.Services
+    .AddIdentityApiEndpoints<ApplicationUser>()
+    .AddEntityFrameworkStores<ApplicationDbContext>();
+
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
+builder.Services.AddApiVersioning(options => {
+        options.DefaultApiVersion = new ApiVersion(1, 0);
+        options.AssumeDefaultVersionWhenUnspecified = true;
+        options.UnsupportedApiVersionStatusCode = (int)StatusCode.NotFound;
+        options.ReportApiVersions = true;
+    }).AddMvc()
+    .AddApiExplorer(options => {
+        options.GroupNameFormat = "'v'VVV";
+        options.SubstituteApiVersionInUrl = true;
+    });
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment()) {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-app.UseHttpsRedirection();
-
-var summaries = new[] {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () => {
-        var forecast = Enumerable.Range(1, 5).Select(index =>
-                new WeatherForecast
-                (
-                    DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                    Random.Shared.Next(-20, 55),
-                    summaries[Random.Shared.Next(summaries.Length)]
-                ))
-            .ToArray();
-
-        return forecast;
-    })
-    .WithName("GetWeatherForecast")
-    .WithOpenApi();
+// todo: This is just bad. Middleware should be added feature by feature here. eg. app.UseIdentity(); app.UseSwagger(); and so on
+app.UseMiddleware();
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary) {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

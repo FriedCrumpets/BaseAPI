@@ -1,0 +1,58 @@
+2024-01-20 11:33:10.343 +00:00 [DBG] Hosting starting
+2024-01-20 11:33:10.436 +00:00 [INF] Now listening on: http://localhost:5046
+2024-01-20 11:33:10.437 +00:00 [DBG] Loaded hosting startup assembly API
+2024-01-20 11:33:10.437 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-20 11:33:10.437 +00:00 [INF] Hosting environment: Development
+2024-01-20 11:33:10.437 +00:00 [INF] Content root path: C:\Users\jamie\Develop\Dotnet\RESTful web API Course\API
+2024-01-20 11:33:10.437 +00:00 [DBG] Hosting started
+2024-01-20 11:33:10.669 +00:00 [DBG] Connection id "0HN0PLEAD4V84" received FIN.
+2024-01-20 11:33:10.675 +00:00 [DBG] Connection id "0HN0PLEAD4V84" accepted.
+2024-01-20 11:33:10.675 +00:00 [DBG] Connection id "0HN0PLEAD4V84" started.
+2024-01-20 11:33:10.689 +00:00 [DBG] Connection id "0HN0PLEAD4V84" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-20 11:33:10.692 +00:00 [DBG] Connection id "0HN0PLEAD4V84" disconnecting.
+2024-01-20 11:33:10.695 +00:00 [DBG] Connection id "0HN0PLEAD4V84" stopped.
+2024-01-20 11:33:10.799 +00:00 [DBG] Connection id "0HN0PLEAD4V85" accepted.
+2024-01-20 11:33:10.800 +00:00 [DBG] Connection id "0HN0PLEAD4V85" started.
+2024-01-20 11:33:10.834 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger - null null
+2024-01-20 11:33:10.837 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-20 11:33:10.908 +00:00 [DBG] Connection id "0HN0PLEAD4V85" completed keep alive response.
+2024-01-20 11:33:10.910 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger - 301 0 null 77.3249ms
+2024-01-20 11:33:10.923 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/index.html - null null
+2024-01-20 11:33:11.007 +00:00 [DBG] Connection id "0HN0PLEAD4V85" completed keep alive response.
+2024-01-20 11:33:11.008 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/index.html - 200 null text/html;charset=utf-8 84.6175ms
+2024-01-20 11:33:11.043 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui.css - null null
+2024-01-20 11:33:11.053 +00:00 [DBG] Connection id "0HN0PLEAD4V86" accepted.
+2024-01-20 11:33:11.053 +00:00 [DBG] Connection id "0HN0PLEAD4V86" started.
+2024-01-20 11:33:11.053 +00:00 [DBG] Connection id "0HN0PLEAD4V87" accepted.
+2024-01-20 11:33:11.053 +00:00 [DBG] Connection id "0HN0PLEAD4V87" started.
+2024-01-20 11:33:11.053 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-bundle.js - null null
+2024-01-20 11:33:11.054 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-standalone-preset.js - null null
+2024-01-20 11:33:11.067 +00:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-20 11:33:11.067 +00:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-20 11:33:11.069 +00:00 [DBG] Connection id "0HN0PLEAD4V87" completed keep alive response.
+2024-01-20 11:33:11.069 +00:00 [DBG] Connection id "0HN0PLEAD4V85" completed keep alive response.
+2024-01-20 11:33:11.069 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 15.3382ms
+2024-01-20 11:33:11.069 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui.css - 200 143943 text/css 26.4152ms
+2024-01-20 11:33:11.076 +00:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-20 11:33:11.076 +00:00 [DBG] Connection id "0HN0PLEAD4V86" completed keep alive response.
+2024-01-20 11:33:11.076 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 23.0265ms
+2024-01-20 11:33:11.430 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/favicon-32x32.png - null null
+2024-01-20 11:33:11.430 +00:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-01-20 11:33:11.430 +00:00 [DBG] Connection id "0HN0PLEAD4V86" completed keep alive response.
+2024-01-20 11:33:11.430 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/favicon-32x32.png - 200 628 image/png 0.7194ms
+2024-01-20 11:33:12.355 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - null null
+2024-01-20 11:33:12.368 +00:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-01-20 11:33:12.395 +00:00 [DBG] Connection id "0HN0PLEAD4V86" completed keep alive response.
+2024-01-20 11:33:12.395 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5046/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 39.6112ms
+2024-01-20 11:33:31.699 +00:00 [INF] Application is shutting down...
+2024-01-20 11:33:31.701 +00:00 [DBG] Hosting stopping
+2024-01-20 11:33:31.721 +00:00 [DBG] Connection id "0HN0PLEAD4V87" disconnecting.
+2024-01-20 11:33:31.721 +00:00 [DBG] Connection id "0HN0PLEAD4V85" disconnecting.
+2024-01-20 11:33:31.721 +00:00 [DBG] Connection id "0HN0PLEAD4V86" disconnecting.
+2024-01-20 11:33:31.723 +00:00 [DBG] Connection id "0HN0PLEAD4V87" stopped.
+2024-01-20 11:33:31.723 +00:00 [DBG] Connection id "0HN0PLEAD4V85" stopped.
+2024-01-20 11:33:31.723 +00:00 [DBG] Connection id "0HN0PLEAD4V86" stopped.
+2024-01-20 11:33:31.723 +00:00 [DBG] Connection id "0HN0PLEAD4V87" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-20 11:33:31.724 +00:00 [DBG] Connection id "0HN0PLEAD4V86" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-20 11:33:31.726 +00:00 [DBG] Connection id "0HN0PLEAD4V85" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-20 11:33:31.732 +00:00 [DBG] Hosting stopped

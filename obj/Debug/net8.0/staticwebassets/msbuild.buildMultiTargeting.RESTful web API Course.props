@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RESTful web API Course.props" />
+</Project>

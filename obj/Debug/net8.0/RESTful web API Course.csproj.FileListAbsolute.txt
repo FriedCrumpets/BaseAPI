@@ -1,0 +1,39 @@
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\appsettings.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\RESTful web API Course.exe
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\RESTful web API Course.deps.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\RESTful web API Course.runtimeconfig.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\RESTful web API Course.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\RESTful web API Course.pdb
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.csproj.AssemblyReference.cache
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.AssemblyInfoInputs.cache
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.AssemblyInfo.cs
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets\msbuild.RESTful web API Course.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTful web API Course.props
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTful web API Course.props
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTful web API Course.props
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\scopedcss\bundle\RESTful web API Course.styles.css
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.csproj.CopyComplete
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\refint\RESTful web API Course.dll
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.pdb
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\RESTful web API Course.genruntimeconfig.cache
+C:\Users\jamie\Develop\Dotnet\RESTful web API Course\RESTful web API Course\obj\Debug\net8.0\ref\RESTful web API Course.dll
